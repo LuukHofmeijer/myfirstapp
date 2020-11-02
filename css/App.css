@@ -1,0 +1,33 @@
+body,
+html {
+  height: 90vh;
+  margin: 0;
+  font-size: 18px;
+  background-color: #222;
+  position: fixed;
+  overflow-y: visible;
+}
+
+.App {
+  height: 100%;
+  padding: 3% 5% 5% 5%;
+  font-family: 'Work Sans', sans-serif;
+  font-weight: 100;
+  color: #fff;
+}
+
+h1 {
+  height: 5%;
+  margin: 2%;
+  margin-top: 0;
+  text-overflow: ellipsis;
+}
+
+.NASA {
+  color: #f65;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}

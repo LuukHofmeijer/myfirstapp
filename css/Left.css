@@ -1,0 +1,31 @@
+.Left {
+  width: 60%;
+  height: 100%;
+  float: left;
+  overflow-y: scroll;
+}
+
+.MainImg {
+  width: 100%;
+}
+
+.Left article {
+  width: 60%;
+  height: auto;
+  float: left;
+}
+
+.Left section {
+  margin-left: 65%;
+  height: 30%;
+}
+
+.Left h2 {
+  color: #aaa;
+  font-size: 1em;
+}
+
+.Left .highlight {
+  color: #fff;
+  font-size: 1.5em;
+}
